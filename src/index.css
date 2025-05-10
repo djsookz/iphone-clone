@@ -70,7 +70,7 @@ canvas {
 }
 
 @utility feature-text-container {
-  @apply w-full flex-center flex-col md:flex-row mt-10 md:mt-16 gap-5
+  @apply w-full flex-center flex-col md:flex-row mt-10! md:mt-16! gap-5!
 }
 
 @utility feature-video {
@@ -90,7 +90,7 @@ canvas {
 }
 
 @utility hero-title {
-  @apply text-center font-semibold text-3xl text-gray-400 opacity-0 max-md:mb-10
+  @apply text-center font-semibold text-3xl text-gray-400 opacity-0 max-md:mb-10!
 }
 
 @utility hiw-title {
@@ -98,7 +98,7 @@ canvas {
 }
 
 @utility hiw-subtitle {
-  @apply text-gray-300 font-semibold text-xl md:text-2xl py-10 text-center
+  @apply text-gray-400 font-semibold text-xl md:text-2xl py-10! text-center
 }
 
 @utility hiw-video {
